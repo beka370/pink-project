@@ -1,0 +1,66 @@
+
+body {
+    background-image:url(photo_2024-10-14\ 12.36.50.jpeg) ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    border-radius:5px ;
+
+}
+
+span {
+font-weight: bolder;
+    font-size: x-large;
+    
+   
+}
+.qwerty {
+justify-content:space-between;
+  margin-left: 20px;
+} 
+.werty {
+    display: flex;
+    flex-direction: column;
+
+}
+.biger {
+    background-color: rgb(254, 233, 253);
+    display: flex;
+    gap: 30px;
+    
+    text-align: left;
+    border-radius:10px ;
+    border: 10px solid white
+    
+    
+}
+.Areal h4 {
+    background-color: bisque;
+    height: 30px;
+    margin-right: 60px;
+    padding: 10px 0;
+    text-align: center;
+    
+}
+.aser h4 {
+    background-color: rgb(255, 244, 124);
+    height: 30px;
+    margin-left: 60px;
+    padding: 10px 0;
+    text-align: center;
+   
+}
+.sept h4 {
+    padding: 10px 0;
+    text-align: center;
+   background-color: aqua;
+   height: 30px;
+   
+
+
+}
+p {
+    font-weight: bold;
+    text-align: left;
+}
